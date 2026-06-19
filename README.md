@@ -48,18 +48,4 @@ npm install
 # 2. Geliştirme sunucusunu başlat
 npm run dev
 
-# 3. Üretim için derle
-npm run build
-```
 
-## 🌐 Netlify Deploy
-
-1. GitHub'a yükle
-2. [netlify.com](https://netlify.com) → "Add new site" → "Import from Git"
-3. Build command: `npm run build`
-4. Publish directory: `dist`
-5. Deploy!
-
-## 📸 Ekran Görüntüsü
-
-Uygulamayı başlattıktan sonra `localhost:5173` adresinden erişebilirsin.
